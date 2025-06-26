@@ -15,9 +15,9 @@
 
 ### 👨‍💼 About Me
 
-- 🔠 I’m currently working on **React + Node.js full-stack projects**
+
 - 🌱 I’m learning **Next.js, MongoDB, and Supabase**
-- 💬 Ask me about **JavaScript, React, APIs, and Git**
+-
 - ⚡ Fun fact: I love turning real-life problems into digital solutions.
 
 ---
@@ -28,9 +28,7 @@
   <a href="https://www.linkedin.com/in/ayaanle1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/ayaanle_1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ayaanle_1?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
+  
 </p>
 
 ---
